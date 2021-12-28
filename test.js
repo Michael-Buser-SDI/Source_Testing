@@ -1,5 +1,5 @@
 class Mercury {
-  test(): {
+  test() {
     console.log('window', window);
   }
 }
